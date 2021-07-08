@@ -1,0 +1,127 @@
+
+*{
+
+	padding: 0;
+	margin: 0;
+}
+
+
+.container{
+
+
+width: 800px;
+margin: 0 auto
+
+}
+
+
+
+
+body{
+
+	background-color: #E8F6EF;
+	
+}
+.style{
+	width: 100%;
+	margin: 0 auto;
+}
+.style ul{
+	display: flex;
+	list-style: none;
+	background-color: #EEB76B;
+	padding: 30px 0;
+	margin: 40px 0;
+
+}
+.style ul li a{
+	
+	text-decoration: none;
+	color:whitesmoke;
+	font-size: 16px;
+	margin-left: 30px;
+	padding: 20px 10px;
+}
+
+
+.one h4{
+
+	color: #536162;
+	margin-top: 20px;
+}
+
+.one h1{
+
+	color: #1597BB;
+}
+.one h1 span{
+	color: #9EDE73;
+}
+
+.one p{
+	color: #536162;
+	margin-top: 50px;
+}
+
+.formstyle{
+	margin-top: 50px;
+}
+
+.two input {
+	
+padding: 10px 20px;
+
+
+	
+}
+
+
+.three input[type=text]{
+	width: 99%;
+	padding: 10px 0 200px 10px;
+	margin: 15px 0;
+
+	
+	}
+
+form input[type=submit]{
+	margin: 50px 0;
+	padding: 12px 20px;
+	background:#29BB89;
+	color: #ffffff;
+	text-transform: capitalize;
+	border: none;
+	border-radius: 5px;
+}
+
+.social-icon{
+	background-color:#EEB76B;
+	width: 812px;
+	margin: 0 auto;
+	text-align: center;
+}
+.social-icon ul{
+	list-style: none;
+	padding-right: 10px;
+}
+.social-icon ul li{
+	display: inline-block;
+}
+.social-icon ul li a i{
+	padding: 30px 20px;
+	color: #fff;
+	font-size: 35px;
+	transition: transform .2s;
+}
+.social-icon ul li a i:hover{
+	transform: scale(1.5);
+}
+
+
+
+
+
+
+
+
+
